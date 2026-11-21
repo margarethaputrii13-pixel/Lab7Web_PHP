@@ -108,7 +108,7 @@ Membuat form untuk menerima nama dan program studi mahasiswa menggunakan metode 
 
 Hasil Praktikum:
 
-<img width="1470" height="956" alt="Tangkapan Layar 2026-11-15 pukul 18 33 08" src="https://github.com/user-attachments/assets/e4579de7-d578-44b2-a530-d72655202bac" />
+<img width="1470" height="956" alt="Tangkapan Layar 2026-11-15 pukul 18 33 03" src="https://github.com/user-attachments/assets/916fe521-a9f9-4f1e-8052-f46c2d0aaaeb" />
 
 
 7. Latihan 7 — Pengolahan Data Sederhana
@@ -130,7 +130,7 @@ Contoh pengujian:
 
 Program juga melakukan validasi untuk mencegah jumlah barang bernilai nol atau negatif.
 
-<img width="1470" height="956" alt="Tangkapan Layar 2026-11-15 pukul 18 33 08" src="https://github.com/user-attachments/assets/b38624c1-9cd7-47a3-9815-adf0523f39d1" />
+<img width="1470" height="956" alt="Tangkapan Layar 2026-11-15 pukul 18 33 08" src="https://github.com/user-attachments/assets/1b70290e-f055-4455-973f-6e2b1cb59338" />
 
 
 ⸻
