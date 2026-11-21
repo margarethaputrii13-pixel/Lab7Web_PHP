@@ -1,4 +1,4 @@
-# Lab7Web_PHPLAPORAN PRAKTIKUM 7
+# Lab7Web_PHP
 
 PEMROGRAMAN WEB — PHP DASAR
 
@@ -99,8 +99,7 @@ Membuat form pencarian menggunakan metode GET untuk menerima kata kunci dari pen
 
 Hasil Praktikum:
 
-<img width="1470" height="956" alt="Tangkapan Layar 2026-11-15 pukul 18 33 03" src="https://github.com/user-attachments/assets/c1b09405-b9ae-45ea-9236-fe6d777f398b" />
-
+<img width="1470" height="956" alt="Tangkapan Layar 2026-11-15 pukul 18 32 57" src="https://github.com/user-attachments/assets/46100c1d-c42b-40da-9330-8c7caf6332bc" />
 
 6. Latihan 6 — Memproses Form dengan POST
 
